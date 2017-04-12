@@ -6,6 +6,9 @@ includes:
   - interface:jenkins-extension
   - interface:jenkins-zuul
   - interface:nrpe-external-master
+exclude:
+  - gen-repo-info.sh
+  - build-requirements.txt
 options:
   basic:
     packages: ['python3-testtools', 'pwgen']
