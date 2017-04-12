@@ -1,3 +1,9 @@
+# WARNING
+
+This revision of this charm is for dev/testing only, and is not intended for general consumption.
+
+---
+
 # Overview
 [![Build Status](https://travis-ci.org/jenkinsci/jenkins-charm.svg?branch=master)](https://travis-ci.org/jenkinsci/jenkins-charm) [![Coverage Status](https://coveralls.io/repos/github/jenkinsci/jenkins-charm/badge.svg?branch=master)](https://coveralls.io/github/jenkinsci/jenkins-charm?branch=master)
 
